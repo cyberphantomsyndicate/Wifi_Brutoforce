@@ -31,16 +31,10 @@
 * `sudo apt install python`
 * `sudo apt install python3`
 * `sudo apt install git`
-* `git clone https://github.com/hacker6291/Password_stealer.git`
-* `ls`
-* `cd Password_stealer `
+* `git clone https://github.com/hacker6291/Wifi_Brutoforce.git `
+* `cd Wifi_Brutoforce`
+* `bash start.sh` 
 
-
-## Uses :
-
-* `cd Password_stealer`
-* `ls`
-* `python3 stealer.py`
 
 
 ## Screenshot:
