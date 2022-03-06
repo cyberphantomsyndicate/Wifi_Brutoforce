@@ -1,5 +1,5 @@
-<h1 align="center">Password_stealer</h1>
-<p align="center">Its steal the passowrd from chrome</p><br>
+<h1 align="center">Wifi Brutoforce Attack</h1>
+<p align="center">Hi Everyone</p><br>
 
 
 
@@ -21,9 +21,9 @@
 * `pkg install python`
 * `pkg install python3`
 * `pkg install git`
-* `git clone https://github.com/hacker6291/Password_stealer.git `
-* `ls`
-* `cd Password_stealer`
+* `git clone https://github.com/hacker6291/Wifi_Brutoforce.git `
+* `cd Wifi_Brutoforce`
+* `bash start.sh`
 
 
 ## INSTALLATION [Kali Linux] :
