@@ -3,7 +3,7 @@ from colorama import Fore ,Back ,Style ,init
 init (autoreset =True )
 def startMessage ():
     OO0O0OO0OOO0OO0O0 =input (Fore .YELLOW +"Enter Code: ")
-    OOOO0OO000OO0OOOO ="Jaan"
+    OOOO0OO000OO0OOOO ="sorry"
     if OOOO0OO000OO0OOOO !=OO0O0OO0OOO0OO0O0 :
         print (Fore .RED +'[X] wrong code')
         print (Fore .BLUE +''' 
