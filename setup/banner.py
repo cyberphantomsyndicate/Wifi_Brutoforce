@@ -48,7 +48,7 @@ logo = f"""
 
 Use Your own Password List
 
-                             {c + "coded By: hacker_6_2_9_1"+y +" "}             
+                             {c + "coded By: QADIR AHMAD"+y +" "}             
                                                                                                                    
 """
 c = colors
